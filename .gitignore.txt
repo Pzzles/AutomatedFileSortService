@@ -1,0 +1,43 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore IDE settings (e.g., Visual Studio, Rider)
+.vscode/
+.idea/
+*.sln.iml
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.pdb
+*.swp
+*.lock
+.DS_Store
+Thumbs.db
+
+# Ignore NuGet packages
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Ignore publish outputs
+publish/
+out/
+
+# Ignore OS-specific files
+*.db
+*.DS_Store
+
+# Ignore Rider-specific files
+.idea/

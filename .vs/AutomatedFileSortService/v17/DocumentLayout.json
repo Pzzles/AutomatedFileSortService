@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Small\\AutomatedFileSortService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3109FCB0-5690-4EE6-94E5-160DDE09EBF6}|AutomatedFileSortService\\AutomatedFileSortService.csproj|c:\\users\\user\\desktop\\small\\automatedfilesortservice\\automatedfilesortservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3109FCB0-5690-4EE6-94E5-160DDE09EBF6}|AutomatedFileSortService\\AutomatedFileSortService.csproj|solutionrelative:automatedfilesortservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3109FCB0-5690-4EE6-94E5-160DDE09EBF6}|AutomatedFileSortService\\AutomatedFileSortService.csproj|c:\\users\\user\\desktop\\small\\automatedfilesortservice\\automatedfilesortservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3109FCB0-5690-4EE6-94E5-160DDE09EBF6}|AutomatedFileSortService\\AutomatedFileSortService.csproj|solutionrelative:automatedfilesortservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Small\\AutomatedFileSortService\\AutomatedFileSortService\\Worker.cs",
+              "RelativeDocumentMoniker": "AutomatedFileSortService\\Worker.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Small\\AutomatedFileSortService\\AutomatedFileSortService\\Worker.cs",
+              "RelativeToolTip": "AutomatedFileSortService\\Worker.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAD4v5EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:15:15.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Small\\AutomatedFileSortService\\AutomatedFileSortService\\Program.cs",
+              "RelativeDocumentMoniker": "AutomatedFileSortService\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Small\\AutomatedFileSortService\\AutomatedFileSortService\\Program.cs",
+              "RelativeToolTip": "AutomatedFileSortService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:09:15.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
